@@ -1,3 +1,6 @@
 [submodule "SAMYCore"]
 	path = SAMYCore
 	url = git@github.com:TW-Robotics/SAMYCore.git
+[submodule "SAMYPlugins"]
+	path = SAMYPlugins
+	url = git@github.com:TW-Robotics/SAMYPlugins.git
