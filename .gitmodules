@@ -4,3 +4,6 @@
 [submodule "SAMYPlugins"]
 	path = SAMYPlugins
 	url = git@github.com:TW-Robotics/SAMYPlugins.git
+[submodule "SAMYPlugins_Templates"]
+	path = SAMYPlugins_Templates
+	url = git@github.com:TW-Robotics/SAMYPlugins_Templates.git
