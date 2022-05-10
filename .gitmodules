@@ -7,3 +7,6 @@
 [submodule "SAMYPlugins_Templates"]
 	path = SAMYPlugins_Templates
 	url = git@github.com:TW-Robotics/SAMYPlugins_Templates.git
+[submodule "SAMYControl"]
+	path = SAMYControl
+	url = git@github.com:TW-Robotics/SAMYControl.git
