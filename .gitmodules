@@ -10,3 +10,6 @@
 [submodule "SAMYControl"]
 	path = SAMYControl
 	url = git@github.com:TW-Robotics/SAMYControl.git
+[submodule "SAMYUseCases"]
+	path = SAMYUseCases
+	url = git@github.com:TW-Robotics/SAMYUseCases.git
